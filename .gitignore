@@ -1,0 +1,21 @@
+### Assembler ###
+#*.exe
+*.gba
+*.o
+*.obj
+*.bc
+
+
+### Compressed Graphic ###
+*.cdat
+*.rle
+*.dat
+
+### Compressed Sound ###
+*.raw
+
+### Windows Temporary Files ###
+*desktop.ini
+
+### HxD Backup Files ###
+*.bak
