@@ -2,6 +2,12 @@
 .dw CD4A50_results_oam_tiles |0x80000000
 .org 0x08CCC138
 .dw ccc138_perfect_tile1 |0x80000000
+.org 0x08CCC39C
+.dw perfect_map_dat
+.org 0x08CCC39C+4
+.dw perfect_map_rle
+.org 0x08CCC39C+8
+.dh perfect_map_rleend-perfect_map_rle
 //Superb, OK, Try Again
 .org 0x0890B422
 .import Graphics/RhythmGame/Results/90B422_assembly0.bin
