@@ -4,11 +4,11 @@ This is a Korean translation of Rhythm Tengoku for Gameboy Advance.
 
 ## Requirement
 
- * Atlas
- * [Armips](https://github.com/Kingcom/armips)
+ * atlas
+ * [armips](https://github.com/Kingcom/armips)
  * DSDecmp
- * [Ffmpeg](https://ffmpeg.org/)
- * [nmap(optional)](https://cafe.naver.com/hansicgu/16674)
+ * [ffmpeg](https://ffmpeg.org/)
+ * [nmap](https://cafe.naver.com/hansicgu/16674) (optional)
 
 ## Realease
  * You can download xdelta patch file from [here](https://windowstiger.tistory.com/252).
