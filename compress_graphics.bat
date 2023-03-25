@@ -93,5 +93,31 @@ DSDecmp.exe -c lz10 Graphics/ToysMenu/Toys/cda118_meow_tile1.bin Graphics/ToysMe
 DSDecmp.exe -c lz10 Graphics/ToysMenu/Toys/cdbacc_rap_tile1.bin Graphics/ToysMenu/Toys/cdbacc_rap_tile1
 DSDecmp.exe -c lz10 Graphics/ToysMenu/Toys/cdd0d4_love_tile1.bin Graphics/ToysMenu/Toys/cdd0d4_love_tile1
 DSDecmp.exe -c lz10 Graphics/StaffRole/C3CA50_Staff_Role_tile.bin Graphics/StaffRole/C3CA50_Staff_Role_tile
-
+rhcomp.exe Graphics/Drums/cc6ccc_drums_map.bin
+rhcomp.exe Graphics/EndlessMenu/cc4a00_endless_tilemap.bin
+rhcomp.exe Graphics/MusicSelect/CD62EC_musicselect_map.bin
+rhcomp.exe Graphics/MusicSelect/CD6434_musicselect_warning_map.bin
+rhcomp.exe Graphics/RhythmGame/CCCA5C_MiscGraphics.bin
+rhcomp.exe Graphics/RhythmGame/Calig/C9BB60_C9B9FC_calig_end.bin
+rhcomp.exe Graphics/RhythmGame/Calig/C9BCD0_C9B9FC_calig_end.bin
+rhcomp.exe Graphics/RhythmGame/Calig/C9BE48_C9B9FC_calig_end.bin
+rhcomp.exe Graphics/RhythmGame/Ninja1/C22EE4_nija_intro_map.new.bin
+rhcomp.exe Graphics/RhythmGame/Ninja1/cb2a08_cb28a4_ninja_1.bin
+rhcomp.exe Graphics/RhythmGame/Ninja1/cb2b54_cb28a4_ninja_2.bin
+rhcomp.exe Graphics/RhythmGame/Ninja1/cb2ccc_cb28a4_ninja_3.bin
+rhcomp.exe Graphics/RhythmGame/Ninja1/cde4e0_ninja_bg.new.bin
+rhcomp.exe Graphics/RhythmGame/Ninja1/ce015c_ninja_bg_map.new.bin
+rhcomp.exe Graphics/RhythmGame/Remix8/map2.bin
+rhcomp.exe Graphics/RhythmGame/Results/perfect_map.bin
+rhcomp.exe Graphics/RhythmGame/Samurai/C9A610_C9A4D4_samurai_end.bin
+rhcomp.exe Graphics/RhythmGame/Samurai/C9A71C_C9A4D4_samurai_end.bin
+rhcomp.exe Graphics/RhythmGame/Samurai/C9A890_C9A4D4_samurai_end.bin
+rhcomp.exe Graphics/RhythmGame/Samurai/samarai_intro_map2.bin
+rhcomp.exe Graphics/RhythmGame/Samurai/samurai_intro_map1.bin
+rhcomp.exe Graphics/StaffRole/C3CA50_Staff_Role_tile_map.bin
+rhcomp.exe Graphics/TitleScreen/CD7AE0_titlescreen_sponsor_tiles_map.bin
+rhcomp.exe Graphics/ToysMenu/cd931c_toys_screen_map.bin
+rhcomp.exe Graphics/ToysMenu/Toys/cd9a44_meow_tile1_map.bin
+rhcomp.exe Graphics/WarningScreen/D1AD4C_warningscreen_tile.bin
+rhcomp.exe Graphics/WarningScreen/D1AD4C_warningscreen_tile_map.bin
 pause
