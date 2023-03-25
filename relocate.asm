@@ -1,4 +1,5 @@
 .org 0x08D34940
+; .org 0x08D34540
 .include Graphics/WarningScreen/warningscreen_relocate.asm
 .include Graphics/TitleScreen/TitleScreen_relocate.asm
 .include Graphics/RhythmGame/KarateMan1/KarateMan1_relocate.asm
@@ -55,4 +56,5 @@
 .include Graphics/RhythmGame/Toss2/toss2_relocate.asm
 .include Graphics/RhythmGame/Remix8/remix8_relocate.asm
 .include Graphics/ToysMenu/Toys/toys_relocate.asm
+.include Graphics/StaffRole/staffrole_relocate.asm
 ;eof

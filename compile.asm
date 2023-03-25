@@ -66,6 +66,7 @@ _spriteluaconsolemessages equ 0
 .include Graphics/RhythmGame/Toss2/toss2.asm
 .include Graphics/RhythmGame/Remix8/remix8.asm
 .include Graphics/ToysMenu/Toys/toys.asm
+.include Graphics/StaffRole/staffrole.asm
 
 .include asm_relocate.asm
 .include asm.asm
