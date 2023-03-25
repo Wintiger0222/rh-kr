@@ -24,5 +24,5 @@ dw map2_dat
 ;.org 0x08C5C3A0+4
 ;dw map2_rle
 ;.org 0x08c88420+8
-;dh map2_rleend-map2_rle
+;dw map2_rleend-map2_rle|0x08000000
 ;eof
