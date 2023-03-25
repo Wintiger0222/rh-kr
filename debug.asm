@@ -2,7 +2,7 @@
 .org 0x0804D11E
 bl SpriteLuaConsoleMessageHook
 .endif
-.if _debug ==1
+.if _debug ==2
 ;cheat to unlock all stages
 .org 0x0801292e
 bl Debug_UnlockAllStages_Hook

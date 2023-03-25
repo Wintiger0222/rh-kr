@@ -12,8 +12,8 @@ bl FixResultsCaps
 bl FixResultsCaps
 .org 0x08019CCA
 bl FixResultsCaps
-.org 0x0801d174
-bl EndlessGamesPlural_Hook
+;.org 0x0801d174
+;bl EndlessGamesPlural_Hook
 ;.org 0x0801d440
 ;mov r0,0;make it not remember last selection as a quick fix
 ;nop

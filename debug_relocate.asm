@@ -24,14 +24,14 @@ pop r0-r7
 mov r2,r0
 mov r1,0
 mov r15,r14
-.pool
+; .pool
 .endif
 
-.if _debug ==1
+.if _debug ==2
 .align 2
 Debug_UnlockAllStages:
 push r0-r2,r14
-ldr r0,= 0x030046a8
+ldr r0,=0x030046a8
 ldr r0,[r0]
 add r0,0x16
 mov r1,0x37
@@ -41,7 +41,7 @@ strb r2,[r0,r1]
 sub r1,1
 bge @@fillstart
 pop r0-r2,r15
-.pool
+; .pool
 
 Debug_UnlockAllMail:
 push r0-r2,r14
@@ -56,7 +56,7 @@ strb r2,[r0,r1]
 sub r1,1
 bge @@fillstart
 pop r0-r2,r15
-.pool
+; .pool
 
 Debug_99Medals:
 push r0-r1,r14
@@ -67,7 +67,7 @@ add r0,r0,r1
 mov r1,0x63
 strb r1,[r0]
 pop r0-r1,r15
-.pool
+; .pool
 
 Debug_UnlockAllStages_Hook:
 push r14
@@ -88,4 +88,5 @@ bl 0x0801D23C
 pop r15
 
 .endif
+.pool
 ;eof
