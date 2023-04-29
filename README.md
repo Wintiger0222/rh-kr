@@ -20,4 +20,5 @@ This is a Korean translation of Rhythm Tengoku for Gameboy Advance.
 ## Original And Related Project
  * [Rhythm Tengoku Translation Project 9a](https://gbatemp.net/threads/rhythm-tengoku-translation-rhythm-heaven-silver.330147/)
  * [Rhythm Tengoku Translation Project 14b](https://github.com/ShaffySwitcher/RhythmHeavenSilver)
+ * [Rhythm Tengoku Translation Project (New version)](https://github.com/ShaffySwitcher/RhythmHeavenAdvance)
 
